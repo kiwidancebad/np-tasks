@@ -1,3 +1,3 @@
 # python-np-tasks
 
-This report is for my university tasks
+This repo is for my university tasks
